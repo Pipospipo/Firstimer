@@ -1,0 +1,15 @@
+{
+    "fb_watch_folder": "C:/Users/SOmeone/Videos/NVIDIA/League of Legends",
+    "ig_watch_folder": "C:/Users/SOmeone/Videos/NVIDIA/League of Legends",
+    "prompt_fb": false,
+    "prompt_ig": false,
+    "ig_counter": 0,
+    "fb_counter_file": "post_counter.txt",
+    "wait_seconds": 10,
+    "remember_settings": true,
+    "fb_caption_template": "Y{yo}, another fake win ra9m: {counter}",
+    "ig_caption_hashtags": "#Gaming #VideoGames #GGWP #GamingMoments #GoodVibes",
+    "chrome_debug_port": 9222,
+    "chrome_user_data_dir": "",
+    "chrome_profile_directory": "Default"
+}
